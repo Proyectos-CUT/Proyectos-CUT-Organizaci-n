@@ -1,2 +1,2 @@
-# Proyectos-CUT-Organizaci-n
+# Proyectos-CUT-Organizacion
 Repositorio base para asignar tareas, objetivos y alcances
